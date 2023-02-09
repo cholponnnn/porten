@@ -1,0 +1,8 @@
+let $slider = document.querySelector("slider")
+let &prev = document.querySelector("#prev")
+let &next = document.querySelector("#next")
+
+
+$next.addEventListener('clik', function()){
+    
+}
